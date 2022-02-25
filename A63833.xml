@@ -1,0 +1,1945 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The souls warfare comically digested into scenes, acted between the soul and her enemies vvherein she cometh off victrix with an angelical plaudit.</title>
+            <title>Divine comedian</title>
+            <author>Tuke, Richard, fl. 1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63833</idno>
+            <idno type="STC">Wing T3228</idno>
+            <idno type="STC">ESTC R6192</idno>
+            <idno type="EEBO-CITATION">11965088</idno>
+            <idno type="OCLC">ocm 11965088</idno>
+            <idno type="VID">51691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The souls warfare comically digested into scenes, acted between the soul and her enemies vvherein she cometh off victrix with an angelical plaudit.</title>
+                  <title>Divine comedian</title>
+                  <author>Tuke, Richard, fl. 1672.</author>
+               </titleStmt>
+               <extent>[4], 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. for Allen Bancks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Issued same year with title: The divine comedian, or, The right use of plays, improved, in a sacred tragy-comaedy / by Rich. Tuke. London : Printed by S.G. for A. Bancks, 1672.</note>
+                  <note>Dedicatory signed: R.T.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51691:1"/>
+            <pb facs="tcp:51691:1"/>
+            <p> 
+               <hi>THE SOULS WARFARE Comically digeſted into SCENES, Acted between the SOUL AND HER ENEMIES, VVherein ſhe cometh off VICTRIX with an Angelical Plaudit.</hi>
+            </p>
+            <q>
+               <p>For we wreſtle not againſt fleſh and Bloud, but againſt principalities, againſt powers, <hi>&amp;c.</hi>
+               </p>
+               <bibl>
+                  <hi>Epheſ.</hi> 6. 12.</bibl>
+            </q>
+            <q>
+               <p>Quomodo fabulaſic vita, non quam diu ſed quam bene act a ſit refert. — tantum bonam clauſulam impone.</p>
+               <bibl>
+                  <hi>Seneca</hi> Epiſt. 78.</bibl>
+            </q>
+            <p>LONDON, <hi>Printed by</hi> S. G. <hi>for</hi> Allen Bancks, <hi>at the Signe of St.</hi> Peter, <hi>at the Weſt end of St.</hi> Pauls. 1672.</p>
+            <pb facs="tcp:51691:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51691:2"/>
+            <head>
+               <hi>TO The Right Honourable and no leſs vertuous MARY Counteſs of</hi> WARWICK.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Am ſenſible, that it is a great preſumption in me, being an Obſcure Perſon, and altogether unknown to your Honour, to prefix that illuſtrious Name of yours to this mean undertaking which has been already celebrated to the World, in the workes of your Honourable Brother; whoſe learned Pen, can give an immortality to any thing it men<g ref="char:EOLhyphen"/>tions. But to render my attempt herein, if not warrant<g ref="char:EOLhyphen"/>able, yet the more excuſable<g ref="char:punc">▪</g> I muſt ſay that my chief de<g ref="char:EOLhyphen"/>ſigne herein, was an Eſſay of gratitude towards your Ho<g ref="char:EOLhyphen"/>nour, as a poor acknowledgment of your favours, towards ſome, the nearneſs of whoſe relation to me, hath reflected a great part of the Obligation, upon my ſelf, and rendred me your Debtor. And under this Character, I am bold to offer theſe ſancies to your Honours Patronage, as a Testimo<g ref="char:EOLhyphen"/>ny to the World, of that real eſteem and reverence the Au<g ref="char:EOLhyphen"/>thor of them bears to your admired vertues. The following lines were the unripe fruits of a youthfull fancy, and the divertiſements of idle houres. They are innocent and harm<g ref="char:EOLhyphen"/>leſs, And that's the beſt I will ſay of them. Recommending them to your Honours gracious acceptance from</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>Your Obliged Servant and Honourer, R. T.</signed>
+            </closer>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:51691:3"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <l>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirea, <hi>the Soul.</hi>
+            </l>
+            <l>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſmus, <hi>the World.</hi>
+            </l>
+            <l>Pe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>it, Pleaſure, <hi>her two Minions.</hi>
+            </l>
+            <l>Satan,</l>
+            <l>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt,</l>
+            <l>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>the Fleſh.</hi>
+            </l>
+            <l>Reaſon, <hi>Privy Conſellor to</hi> Empi<g ref="char:EOLunhyphen"/>rea, <hi>but diſloyal.</hi>
+            </l>
+            <l>Scandal, Poverty, Sickneſs <hi>Caſtigators.</hi>
+            </l>
+            <l>Faith, Hope, Charity, <hi>the three Theological graces, and Atten<g ref="char:EOLhyphen"/>dants to the Queen</hi> Empirea,</l>
+            <l>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Auditus, O<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ctus, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actus, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tus, <hi>the five Senſes.</hi>
+            </l>
+         </div>
+         <div type="prologue">
+            <head>PROLOG<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>E</head>
+            <lg>
+               <l>THe Life of Mans, a Tragi Comedie,</l>
+               <l>Varied with Scenes of ſorrow and delight,</l>
+               <l>The World's the Scene and we the Actors be,</l>
+               <l>Angels ſpectators, that behold the ſight.</l>
+            </lg>
+            <lg n="2">
+               <l>2. The prologue to it, is an Infants Cry,</l>
+               <l>(S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur firſt Scene beginneth Tragical,)</l>
+               <l>The Epilogue unto this Tragedie,</l>
+               <l>A dying g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne, Tears, and a paſſing Bell.</l>
+            </lg>
+            <lg n="3">
+               <l>3. The C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mick part thereof, a Scene or two,</l>
+               <l>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mirth and Laughter, in our frolick Youth,</l>
+               <l>Attend <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill with far more Scenes of Woe,</l>
+               <l>And ſadneſs; thoſe are fictions, theſe are truth.</l>
+            </lg>
+            <lg n="4">
+               <l>4. Heav'n gives the Plaudit, when the Act is done,</l>
+               <l>Or elſe explodes it if 'tis done amiſs,</l>
+               <l>Or Life, or Death, Damnation, or a Crown</l>
+               <l>Of Glory the reward of acting is:</l>
+               <l>He acts his part unto the Life indeed,</l>
+               <l>To whom Heav'ns Plaudit, ſhall his Act ſucceed.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:51691:3"/>
+            <head>THE Souls Warfare,</head>
+            <div n="1" type="act">
+               <head>Actus primus.</head>
+               <div n="1" type="scene">
+                  <head>Scena prima.</head>
+                  <stage>Empirea, Coſmus, Profit, Plea<g ref="char:EOLhyphen"/>ſure, <hi>dreſt like Pages.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <p>HAil faireſt Queene!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <p>who's there, the <hi>World?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <l>—Tis <hi>I,</hi>
+                     </l>
+                     <l>Madam your humbleſt ſervant, that am come</l>
+                     <l>out of that Love and Duty that I beare</l>
+                     <l>unto your Sacred Perſon, to preſent</l>
+                     <l>Two of my faithfull Servants, to attend</l>
+                     <l>and wait upon your Highneſs:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir</speaker>
+                     <l>Pretty Lads,</l>
+                     <l>What call you them?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <l>This in the Sarcenet ſuite</l>
+                     <l>of divers Colours, and a ſwelling Plume</l>
+                     <l>of <hi>Ectritch-Feathers</hi> dancing on his Beaver,</l>
+                     <l>is called <hi>Pleaſure;</hi> that ſame other in</l>
+                     <l>a Robe thick laid with Gold, Whoſe ſhining luſtre</l>
+                     <l>outvies the Prince of Day in all his glory,</l>
+                     <l>is <hi>Profit;</hi> t'one a merry wag, and will</l>
+                     <l>defend you from the mind-afflicting Charmes</l>
+                     <l>of Melancholy, that ſame Peeviſh Fiend,</l>
+                     <l>Hee'l ſtrew your ways with Roſes, you ſhall ly</l>
+                     <l>on beds of Violets, and ſhall ſurfet too</l>
+                     <l>on Aromatick ſweets: both Heaven and Earth</l>
+                     <l>ſhall yeild their daynties up, the Stars ſhall ſerve</l>
+                     <l>to make you Jelly; and the Pearly dew</l>
+                     <l>perfumed with the choice attracting ſpirits</l>
+                     <l>of <hi>Fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ra</hi>'s <hi>Officine,</hi> ſhall every Morn</l>
+                     <pb n="2" facs="tcp:51691:4"/>
+                     <l> be for your morning drink; then ſhall he run</l>
+                     <l>into the Indies, and thence load himſelf</l>
+                     <l>With richeſt ſpices to perfume the Air</l>
+                     <l>When you ſhall walk abroad; Each morning he</l>
+                     <l>ſhall wait upon you with a Heav'nly Noiſe</l>
+                     <l>of rareſt Muſique, whoſe ſweet harmony</l>
+                     <l>ſhall paſs that of the Spheres, and fill you full</l>
+                     <l>of joyfull ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>acies; Green ſhades beſtrew'd</l>
+                     <l>with Natures verdant Pluſh, and thickly lac'd</l>
+                     <l>with various colour'd flowers: ſhall pleaſe your eyes</l>
+                     <l>and bleſs your ſmelling too: then will he lead</l>
+                     <l>you on your gentle Palfrey to the Park,</l>
+                     <l>Where you ſhall follow brave <hi>Acteons</hi> mates</l>
+                     <l>over the flowery Lawnes, and Chriſtal ſprings</l>
+                     <l>after the light-foot Deer, till they ſhall fall</l>
+                     <l>down Captive at your feet: then againſt your</l>
+                     <l>returnrn, ſhall he new dreſs him in a Banquet</l>
+                     <l>or when you would be private, he ſhall read</l>
+                     <l>ſweet Amorous Sonnets to you; ſuch as are</l>
+                     <l>Great <hi>Ovids</hi> buckſome Elegies: and then,</l>
+                     <l>when as the Sun has in his Weſtern Bed</l>
+                     <l>ſhrouded himſelf and left his guard of Stars</l>
+                     <l>to watch the ſlumbers of the univerſe:</l>
+                     <l>he'l lead your ſences into Pleaſant Dreams,</l>
+                     <l>With the ſweet lullaby of pleaſant ſongs</l>
+                     <l>from faireſt Virgins ſuch as <hi>Hellen</hi> was:</l>
+                     <l>or rather ſuch as that ſame Quinteſſence</l>
+                     <l>
+                        <hi>Apelles</hi> drew, and who ſhall likewiſe mix</l>
+                     <l>their amorous ſongs, With honyed balm of Kiſſes,</l>
+                     <l>preſs on the Cherrys of their yeilding lips;</l>
+                     <l>So ſhall he entertain you all the night,</l>
+                     <l>Feaſting your Grace with paſtime and delight.</l>
+                     <l>This other Youth, whoſe Viſage altogether</l>
+                     <l>is not ſo pleaſing, but does ſeem to look</l>
+                     <l>with a ſeverer, with a graver aſpect,</l>
+                     <l>With eyes caſt down upon his Mother Earth,</l>
+                     <l>Born in <hi>America,</hi> where in the Mines</l>
+                     <l>he ſometimes dwelt, but ſince the weſtern World</l>
+                     <l>has fet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'d h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m thence, and now he flouriſhes</l>
+                     <l>in the moſt ſplendent Courts and Pallaces</l>
+                     <pb n="3" facs="tcp:51691:4"/>
+                     <l> of <hi>Aſian</hi> and <hi>Europian</hi> Monarchies he</l>
+                     <l>now with his pleaſing Arms intwining round</l>
+                     <l>Great <hi>Caeſars Browes,</hi> and makes his Majeſtie</l>
+                     <l>look with a greater Grace; than they of old</l>
+                     <l>did with their Lawrel Boughs. He is</l>
+                     <l>a Counſellor to Kings; who will not dare</l>
+                     <l>to enter upon any thing, till they</l>
+                     <l>have firſt conſulted him, Tis he muſt raiſe</l>
+                     <l>their legions for them, and the mettal is</l>
+                     <l>that makes their Souldiers fight, and does inflame</l>
+                     <l>their courages more than Drum, or Trumpet can,</l>
+                     <l>He makes their Navies (like as <hi>Silva</hi> would</l>
+                     <l>conquer the Ocean) cloud the unruly Main,</l>
+                     <l>and ſpread themſelves into theſe forreign Soiles,</l>
+                     <l>that Fame her ſelfe nere knew, ſubduing all</l>
+                     <l>the way they go, till all the World ſhould ſtand</l>
+                     <l>amaz'd at them; He alone it is,</l>
+                     <l>that is the ſtrength and ſinews of the Land,</l>
+                     <l>and does extend his divine influence,</l>
+                     <l>into the darkeſt Corners of the Weal:</l>
+                     <l>He tis that makes the great ones like to Suns,</l>
+                     <l>each in his place, admired and adored;</l>
+                     <l>That blazens forth their honourable Creſts,</l>
+                     <l>and decks their Names with reverence and eſteem:</l>
+                     <l>He is a comfort to afflicted ones:</l>
+                     <l>and thoſe afflicted perſons, that have left</l>
+                     <l>no Freinds nor comforts, he can in a trice</l>
+                     <l>create them both: when they are deeply plung'd</l>
+                     <l>in want or miſery he helps them out,</l>
+                     <l>When ſad, he chears them, when impriſon'd frees them,</l>
+                     <l>When ſick he cures them, when in pains doth eaſc'm.</l>
+                     <l>'Tis for theſe glorious properties the World</l>
+                     <l>adores him: People placing him in ſhrines</l>
+                     <l>of well tew'd leather, built him temples of</l>
+                     <l>hard Adamantine, time out-wearing mettal;</l>
+                     <l>Worſhiping him as God, of whom they find,</l>
+                     <l>ſo much of good to Body and to Mind.</l>
+                     <l>And now <hi>(Great Princeſs!)</hi> ſee this Glorious wight</l>
+                     <l>that rules the hearts of them that over-rule</l>
+                     <l>Great Monarchies here ready ſtand to beg</l>
+                     <pb n="4" facs="tcp:51691:5"/>
+                     <l> to be your Slave, daign him a Pages place,</l>
+                     <l>
+                        <hi>Illuſtrious Queen!</hi> and in your Privy-Chamber</l>
+                     <l>But let him wait, you'l find him diligent</l>
+                     <l>and truſty. He ſhall fetch the <hi>Indian</hi> Mines</l>
+                     <l>into your Coffers, fill your Cabinets</l>
+                     <l>with Pearls, more rich than <hi>Cleopatra</hi>'s draught,</l>
+                     <l>Priz'd at a Kingdom,—this can Gold and more—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Nay her's enough;</l>
+                     <l>Baſe Sycophant, I do not like your wooing;</l>
+                     <l>thinks't thou to trap a pure immortal Soul,</l>
+                     <l>with ſuch inferiour trifles? <hi>World,</hi> do'ſt know</l>
+                     <l>who 'tis I am? Is not my Royal Father</l>
+                     <l>the Great Creator of the Univerſe,</l>
+                     <l>and King of thee, and all the World beſide?</l>
+                     <l>Is not my Country Heav'n, of which I am</l>
+                     <l>an heir, and where I have laid up a Crown?</l>
+                     <l>Are not the Angels, whoſe pure beings are</l>
+                     <l>Exempt from droſs and groſſer qualities,</l>
+                     <l>Mighty and glorious, my attendants, and</l>
+                     <l>ſhall I admit of Drudges, baſe born Slaves</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> be about me? No, they are too foul,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rthly, too impure: Thy worldlings may</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> them welfavored, but I can diſc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o fairneſs in them: as for <hi>Pleaſure</hi> let</l>
+                     <l>him go ſerve Swine, or tend the bearded Cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w</l>
+                     <l>that climb the Mountains; whoſe bruit natures may</l>
+                     <l>require thoſe kind offices that you</l>
+                     <l>have profer'd to me, but an heir of Heaven</l>
+                     <l>ſlights them as Dirt and Traſh: let profit go</l>
+                     <l>again for me, into thoſe durty holes</l>
+                     <l>from whence he came, or to ſuch Earth-worm's fly,</l>
+                     <l>as love like Swine to wallow in their Mire;</l>
+                     <l>But let not dirty clay, burniſhed ore,</l>
+                     <l>dare to appear before a Heaven-born-Soul</l>
+                     <l>pure as the Stars: I will not be defil'd</l>
+                     <l>with ſuch baſe rubbiſh; my Choice faculties</l>
+                     <l>will not away with their ſociety,</l>
+                     <l>Nor do I care they ſhould then bear them hence,</l>
+                     <l>I care not for their ſight:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <l>Madam you are</l>
+                     <pb n="5" facs="tcp:51691:5"/>
+                     <l> Ignorant of their worth, you do not know</l>
+                     <l>what comfortsthey will prove, when you ſhall be</l>
+                     <l>afflicted, or with pains, or loſs of Friends,</l>
+                     <l>or any other maladie, you'l find</l>
+                     <l>no ſuch hearty Cordials as Sir <hi>Gold</hi>
+                     </l>
+                     <l>can then adminiſter; But let me know</l>
+                     <l>upon what ground is your diſpleaſure founded.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <p>I need no Servitors, I have enough:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <p>Store is no ſore,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <p>But they'l prove ſores to me,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <p>Your reaſon for't,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>To tel you plain they are</l>
+                     <l>too like their owner they'r too like to you:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <p>Madam is that your thought?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <p>It is,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <l>you may</l>
+                     <l>pleaſe to remember, I have not deſerv'd</l>
+                     <l>ſuch uſage at your hands, I did not think</l>
+                     <l>you could be ſo ingratefull (parden me)</l>
+                     <l>I ſay ungratefull, thus at laſt with ſcorn,</l>
+                     <l>back to repay me thoſe indulgencies,</l>
+                     <l>whereby I have preſerv'd you ever ſince</l>
+                     <l>you were created; tell me, have not I</l>
+                     <l>upheld thy being by my Elements,</l>
+                     <l>have not I fed thee, cloth'd thee, hous'd thee, kept thee,</l>
+                     <l>and more—but I forbear—you can't but know</l>
+                     <l>how the whole Microcoſm depends on me,</l>
+                     <l>and yet thus to abuſe my love and kindneſs—'tis</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <p>What is it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Coſm.</speaker>
+                     <p>High ingratitude,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Thou art deceived vain wretch, did ever I</l>
+                     <l>receive ſuch kindneſs at thy poiſned hands?</l>
+                     <l>Did I e're taſt thy bounty? who a ſpirit,</l>
+                     <l>am made unable ought to entertain</l>
+                     <l>but what is likewiſe ſpiritual, theſe</l>
+                     <l>Corporeal Elements, in me can no</l>
+                     <l>reception find, my food is from above:</l>
+                     <l>Coeleſtial <hi>Manna,</hi> food from heav'n, from whence I had</l>
+                     <l>this being given, never to decay,</l>
+                     <l>but by the ſame almighty power that did</l>
+                     <pb n="6" facs="tcp:51691:6"/>
+                     <l> Create me without other adjument,</l>
+                     <l>I live a life that never ſhall have end.</l>
+                     <l>Then <hi>Coſmus</hi> ceaſe to twit</l>
+                     <l>me with thoſe courteſies I nere receiv'd,</l>
+                     <l>and ſo farewell, I've other buſineſs</l>
+                     <l>to mind, then your impertinencies</l>
+                  </sp>
+                  <sp>
+                     <speaker>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſm.</speaker>
+                     <p>Nay Lady:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Empir,</speaker>
+                     <l>Sweet <hi>World</hi> forbear, indeed I cannot ſtay</l>
+                     <l>I muſt to Court and you'l obſtruct my way</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scena Secunda.</head>
+                  <stage>Satan. Luſt.</stage>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>
+                        <hi>Great Founder of</hi> our Helliſh Monarchie!</l>
+                     <l>that by thy power could'ſt bright Lucifer</l>
+                     <l>unhinge from his imperial Station,</l>
+                     <l>ſpoil the great univerſe, and overthrow</l>
+                     <l>the Lord of this fair Frame, with all the reſt</l>
+                     <l>of his ſtar-vying Iſſue; and thereby</l>
+                     <l>inlarg'd the Confines of the infernal Crown.</l>
+                     <l>There is great <hi>Potentate,</hi> a Beauteous thing</l>
+                     <l>We call a Soul, of noble Progenie,</l>
+                     <l>here boarding for a while upon this Earth,</l>
+                     <l>and then bound for the Stars: now we that are</l>
+                     <l>Griped with envy, when we any ſee</l>
+                     <l>but reaching thither at that glorious Crown,</l>
+                     <l>that we have loſt by our rebellion;</l>
+                     <l>have left a while the other great affairs</l>
+                     <l>of this our Kingdom, and to feed revenge</l>
+                     <l>have pre-ordained her a ſacrifice,</l>
+                     <l>unto the boyling anger of our breaſt:</l>
+                     <l>and you <hi>Great Sir!</hi>
+                     </l>
+                     <l>That of our Victor are become our Freind</l>
+                     <l>and jointly labour with us to maintain</l>
+                     <l>and hold up the joint-intereſt of our Realm</l>
+                     <l>we muſt implore your aid—Shee's young as yet</l>
+                     <l>and newly kindled and her boſome ſoft,</l>
+                     <pb n="7" facs="tcp:51691:6"/>
+                     <l> tis Virgin wax: and that will eaſily yield</l>
+                     <l>to whatſo'ere impreſſion, let it bear</l>
+                     <l>a Catalogue of thy infernal waiters,</l>
+                     <l>let it be ſullied, that what e're is good</l>
+                     <l>may not be legible and then diffuſe</l>
+                     <l>thy ſecret Poiſon into her, that may</l>
+                     <l>ſpread into every Veyn and Arterie,</l>
+                     <l>and make her foul to him that doth ſo much</l>
+                     <l>deſire to win her; nor mean while will I</l>
+                     <l>be idle, but will dayly ſtudy how</l>
+                     <l>to farther this our great deſign.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Luſt.</speaker>
+                     <l>Illuſtrious Friend,</l>
+                     <l>Ere ſince the time thou gaveſt me a being,</l>
+                     <l>and the Univerſe had cauſe to ſpend a curſe</l>
+                     <l>on my behalf, and ſince the time that we</l>
+                     <l>brought down great <hi>Anthropos</hi> to that eſtate</l>
+                     <l>whereto a while before, <hi>Nemeſes</hi> had</l>
+                     <l>condemned you: we have made it our deſign</l>
+                     <l>to inlarge the limits of our new found Kingdom:</l>
+                     <l>Witneſs, thoſe Millions of Souls, that ly</l>
+                     <l>in Chains of Horror in dark <hi>Acheron;</hi>
+                     </l>
+                     <l>All which by force or cunning, we have won</l>
+                     <l>from him that rules the Region of the Stars:</l>
+                     <l>And ſhall we let this ſingle animal,</l>
+                     <l>go ſimple forward in her way to Heaven,</l>
+                     <l>and have no pul-backs for her, frauds, nor ſlights</l>
+                     <l>to inſnare her with, no Cloudie miſts or fogs</l>
+                     <l>to caſt before her eyes? no Pitfalls laid</l>
+                     <l>to interrupt her feet? could we have power</l>
+                     <l>by the ſtrength only of one ſingle Sin</l>
+                     <l>to pull down Angels from their ſacred Thrones,</l>
+                     <l>into this Pit of <hi>Sulphure?</hi> and cannot</l>
+                     <l>the like do by this clay-informing fire?</l>
+                     <l>half ours already, by that leprous ſtain</l>
+                     <l>of hereditary corruption,</l>
+                     <l>wherewith at firſt I poyſoned her; whoſe guilt</l>
+                     <l>waſht of by Baptiſm and her Saviours Bloud</l>
+                     <l>yet habits ſtill remains; her faculties</l>
+                     <l>(Royal attendants to this Heaven-born Queen</l>
+                     <l>already we have corrupted, and made ſwear</l>
+                     <pb n="8" facs="tcp:51691:7"/>
+                     <l> Fealty to our ſervice, <hi>Knowledge</hi> firſt,</l>
+                     <l>her great intelligencer, <hi>Preſident</hi>
+                     </l>
+                     <l>too of her privy-Council, and the Star</l>
+                     <l>whoſe light ſhould guide her to port of bliſs,</l>
+                     <l>we have robbed of its heavenly notions</l>
+                     <l>darkned its luſtre, and inſtead therof,</l>
+                     <l>planted dim notions and deceitful lights,</l>
+                     <l>that ſpread their rayes on nothing but what is</l>
+                     <l>Earthly and filthy; the affections</l>
+                     <l>ſeem to ſtand neuter yet, ſo does the Will,</l>
+                     <l>t'one we have bribed with ſome gaudy trifles</l>
+                     <l>as honours, pleaſures, riches, and the like;</l>
+                     <l>the Will ſeems to be governed by them,</l>
+                     <l>but now and then drawes back as though it ſmelt</l>
+                     <l>ſome treachery, but that which moſt availes</l>
+                     <l>is, we have gotten <hi>Reaſon</hi> in to be</l>
+                     <l>a privy-Councellour, who will no doubt</l>
+                     <l>carry our work on well; the Paſſions</l>
+                     <l>have mixt themſelves with the affections,</l>
+                     <l>diſordering and making them unruly:</l>
+                     <l>ayming at nothing but a Tirany,</l>
+                     <l>which all the other powers muſt obey.</l>
+                     <l>And <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ith we know and pollicy informs</l>
+                     <l>us, how the way to conquer firſt muſt be</l>
+                     <l>by ſtrengthning our ſelves by potent allyes;</l>
+                     <l>We have got the <hi>World</hi> to be on our ſide too,</l>
+                     <l>who yeſterday attended with a pair</l>
+                     <l>of wily Lads (that can inſinuate</l>
+                     <l>into your boſome, and then cut your throats)</l>
+                     <l>offered them to be pages to the <hi>Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>een</hi>
+                     </l>
+                     <l>
+                        <hi>Empirea,</hi> But ſhe in a ſullen fit,</l>
+                     <l>I wiſh (It be not policy) refuſ'd</l>
+                     <l>them both, but ſtay, here <hi>Coſmus</hi> comes himſelf:</l>
+                     <stage>
+                        <pb n="9" facs="tcp:51691:7"/> 
+                        <hi>—Enter</hi> Coſmus, <hi>with a dejected look, and muttering ſomewhat to himſelf.—</hi>
+                     </stage>
+                     <l>Let him relate his embaſſy at large;</l>
+                     <l>now Miſchief! what a Vengeance ailes thy looks</l>
+                     <l>to be ſo crabbed? don't thy Pitfalls take?</l>
+                     <l>Do men grow wiſe and 'ſcape them? or return</l>
+                     <l>thy favours as they would commodities</l>
+                     <l>where they ſuſpect a Cheat? has ſome ſick Nun,</l>
+                     <l>whoſe Queazy ſtomack could not well digeſt</l>
+                     <l>thy fooleries, having but lately took</l>
+                     <l>thereby a ſurfeit, ſhut thee out of doores,</l>
+                     <l>and in ſome Abby anchorized her ſelf,</l>
+                     <l>and vow'd defiance againſt thee? this would make</l>
+                     <l>
+                        <hi>Coſmus</hi> to frown indeed—but waving this</l>
+                     <l>prithee how cam'ſt thou off the other day</l>
+                     <l>with thy two Baſtards? did the Queen except</l>
+                     <l>thy courteſie?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coſmus.</speaker>
+                     <l>—No Sir, nor hardly would indure their ſight,</l>
+                     <l>though I us'd all the Rettorick I could,</l>
+                     <l>to ſet them off, and yet me thought at firſt,</l>
+                     <l>ſomewhat ſhe did incline, but now and then</l>
+                     <l>She'd turn her head aſide, and look as though</l>
+                     <l>ſome one were whiſpering ſomewhat in her ear</l>
+                     <l>and then She'd ſigh, and by and by would bluſh:</l>
+                     <l>But yet no Creature all this while I ſee</l>
+                     <l>till having finiſhed my Oration,</l>
+                     <l>(which ſhee exploded as a little ſmoke,)</l>
+                     <l>She with a ſtiff denial turn'd about</l>
+                     <l>and left me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Luſt.</speaker>
+                     <l>Bafled! Sure this Soul is monſtruous wiſe,</l>
+                     <l>thus to outwit thee <hi>(World)</hi> what had'ſt thou ne're</l>
+                     <l>a Rattle in thy hand (which honour ſome</l>
+                     <l>will call) to gingle in her Ears, nor yet</l>
+                     <l>ſome curious painted bubbles, ſuch as boyes</l>
+                     <l>raiſe out of Nutſhels, to allure her with?</l>
+                     <l>Theſe will do feats with others that declare</l>
+                     <pb n="10" facs="tcp:51691:8"/>
+                     <l> by ſuch fond choices, what their Judgments are:</l>
+                     <l>But wiſemen with an unconcerned look</l>
+                     <l>can ſee thy Apes ſcrambling for Nuts, and toyes,</l>
+                     <l>that thou in ſport do'ſt caſt among them, and</l>
+                     <l>laugh at both them and thee—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>What ſays <hi>Caro,</hi>
+                     </l>
+                     <l>Pleads ſhe not ought in their behalf?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coſmus</speaker>
+                     <l>Poor Wretch!</l>
+                     <l>Shee ſeems to long more than a Bridegroom doth,</l>
+                     <l>for the approaching nuptial night, t'enjoy</l>
+                     <l>their company, She ſayes her Lady has</l>
+                     <l>made her keep Lent this twelvemonth, and hath pined</l>
+                     <l>her with baſe cankring abſtinence ſo long,</l>
+                     <l>that She is almoſt ready to forſake</l>
+                     <l>her ſervice, and return to Earth her Mother:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Luſt.</speaker>
+                     <l>Intollerable wrongs! as long as fleſh</l>
+                     <l>is thus kept under by her Tirannic,</l>
+                     <l>We fight againſt the wind; but can there be</l>
+                     <l>no way invented for to ſet her free?</l>
+                     <l>Cannot we get her to rebel, and turn</l>
+                     <l>to us? ſuch treaſon cannot but delight,</l>
+                     <l>and pleaſing ſeem to mortifyed fleſh,</l>
+                     <l>cannot we promiſe her for hardned floors,</l>
+                     <l>to ſink in ſofter down, for darkned rooms</l>
+                     <l>and ſolitary haunts, the pleaſant walkes</l>
+                     <l>of <hi>Tempe</hi> and <hi>Ide;</hi> promiſe <hi>Elizium</hi>
+                     </l>
+                     <l>and all the Joyes o'th' <hi>Alcoran—</hi>but tuſh,</l>
+                     <l>Shee knowes thee well enough—no need of Buſh</l>
+                     <l>But <hi>Coſmus,</hi> what do'ſt think out—prethee ſpeak:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coſmus.</speaker>
+                     <l>The <hi>Italian</hi> in his hotteſt Jealouſie</l>
+                     <l>pries not more narrowly into the ways</l>
+                     <l>and actions of his new eſpouſed wife,</l>
+                     <l>though a <hi>Venetian,</hi> and not paſt eighteen,</l>
+                     <l>then doth <hi>Empirea</hi> watch th'inflaved fleſh,</l>
+                     <l>forbiding her whatever liberty</l>
+                     <l>
+                        <hi>Reaſon</hi> might ſeem t'allow—who dares not ſtir</l>
+                     <l>once out of doores, but like a Recluſe hid,</l>
+                     <l>to all the world dark-Lanthorn'd as it were,</l>
+                     <l>Nor dare once caſt a glance aſide, but ſtreight</l>
+                     <l>'tis check'd, luſt charged with deceit and fleſh,</l>
+                     <pb n="11" facs="tcp:51691:8"/>
+                     <l> be ſurely penanc't for't</l>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>O Cruel, Cruel as our ſelf, what hope</l>
+                     <l>have we as long as our friend <hi>Fleſh</hi> is kept</l>
+                     <l>thus in ſubjection to that ſtubborn dame?</l>
+                     <l>yet we muſt help her, <hi>Reaſon</hi> is you ſay,</l>
+                     <l>our friend:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Luſt.</speaker>
+                     <p>—He is,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>May not we try,</l>
+                     <l>If with his Oyly language he perhaps</l>
+                     <l>may with <hi>Empirea</hi> prevail to let</l>
+                     <l>her have more liberty.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Luſt.</speaker>
+                     <l>We may, and 'tis</l>
+                     <l>good policy, <hi>Fleſh</hi> ſhall begin to rail,</l>
+                     <l>and clamour, ſo wee'l have the Plot, and then</l>
+                     <l>
+                        <hi>Reaſon</hi> ſhall come and help her,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>Very good;</l>
+                     <l>And if that need require, our ſelf will there</l>
+                     <l>be preſent, and with <hi>Reaſon</hi> will aloud</l>
+                     <l>rail in <hi>Empirea's</hi> Ears, till we ſhall fright</l>
+                     <l>her into better thoughts,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Luſt.</speaker>
+                     <l>'tis done, and we</l>
+                     <l>will go about it:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>
+                        <hi>Fate</hi> auſpicious be.</l>
+                     <stage>Exeunt.</stage>
+                  </sp>
+                  <stage>Chorus of Angels.</stage>
+                  <sp>
+                     <speaker>
+                        <hi>Angel.</hi> 1.</speaker>
+                     <l>Thus is our Heav'n born ſiſter, fain</l>
+                     <l>To croud her way through grief and pain,</l>
+                     <l>Ere ſhe can come with us to raign.</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>Angel</hi> 2.</speaker>
+                     <l>Thus do her curſed foes that were</l>
+                     <l>(Once our collegues) ſeek to inſnare,</l>
+                     <l>her Heav'n-bound feet, and keep her there.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Chorus.</speaker>
+                     <l>But ſhe ſhall overtop them all</l>
+                     <l>And come to us when Heav'n ſhall call.</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>Angel.</hi> 1.</speaker>
+                     <l>Mean while, while ſhe thus ſtruggles out</l>
+                     <l>Her paſſage thorough fear and doubt,</l>
+                     <l>Let's go and camp ourſelves about</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>Angel</hi> 2.</speaker>
+                     <l>her ſacred ſhrine and keep her from</l>
+                     <l>Whatever ill may chance to come</l>
+                     <l>Unto her until ſhe come home.</l>
+                     <pb n="12" facs="tcp:51691:9"/>
+                  </sp>
+                  <sp>
+                     <speaker>Chorus.</speaker>
+                     <l>When ſhe ſhall overtop them all,</l>
+                     <l>And live with us when heav'n ſhall call</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>Angel</hi> 1.</speaker>
+                     <l>And let our gratious Soveraign grant</l>
+                     <l>Whatever ſuccours ſhe may want</l>
+                     <l>Or comforts when her Joyes are Scant</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>Angel</hi> 2.</speaker>
+                     <l>That ſhe may never ſeem to be</l>
+                     <l>A prey left to the Enemy,</l>
+                     <l>But ſtill be Crown'd with victory:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Chorus.</speaker>
+                     <l>Till ſhe ſhall overtop them all</l>
+                     <l>And come to us when Heav'n ſhall call.</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>Actus Secundus.</head>
+               <div n="1" type="scene">
+                  <head>Scena prima.</head>
+                  <stage>Empirea, Caro, Reaſon.</stage>
+                  <sp>
+                     <speaker>Empirea.</speaker>
+                     <l>
+                        <hi>Fleſh,</hi> pray keep in to day, we muſt to Court</l>
+                     <l>and you muſt not be gadding as you uſe,</l>
+                     <l>When we ſhould thither take the milky way.</l>
+                     <l>Pray ſtay at home and dreſs us, we muſt faſt</l>
+                     <l>to day; nay whine not <hi>Fleſh,</hi> it muſt be ſo;</l>
+                     <l>I'le tame your ſtubbornneſs, and bring you low;</l>
+                     <l>What's that you ſay?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Caro.</speaker>
+                     <l>I cannot faſt,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empirea.</speaker>
+                     <l>How's that you cannot?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Caro.</speaker>
+                     <l>—No,</l>
+                     <l>Moſt cruel Miſtreſs, do but ſee how I</l>
+                     <l>am skelton'd and marcerated by</l>
+                     <l>your faſtings, almoſt quinteſſenc'd</l>
+                     <l>to skin and bones: ſee but my Brawn-fal'n-limbs</l>
+                     <l>how lank their skin hangs like to leather baggs;</l>
+                     <l>ſhall I be martyr'd that from day to day?</l>
+                     <l>I will not, nay I cannot, it is not</l>
+                     <l>the way to have a ſervant of me long,</l>
+                     <l>to uſe me thus, and pine me unto death,</l>
+                     <l>againſt all reaſon—</l>
+                     <stage>
+                        <pb n="13" facs="tcp:51691:9"/> 
+                        <hi>Enter</hi> Reaſon, Satan.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Reaſ.</speaker>
+                     <l>Good morrow Lady, what's your waiting ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l and you fal'n out?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>It ſeems ſo Sir, and't may be 'tis from you</l>
+                     <l>we are, for even juſt but now ſhe had</l>
+                     <l>your name up.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Reaſon.</speaker>
+                     <l>Mine good Madam?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Yes, your's, good Madam,</l>
+                     <l>you think it may be, we are ignorant</l>
+                     <l>of your devices, and your tricks, to allure</l>
+                     <l>her from our ſervice.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Reaſ.</speaker>
+                     <l>Madam we that are</l>
+                     <l>great moderatour of all humane things,</l>
+                     <l>that hold the golden Scale wherein are weigh'd</l>
+                     <l>all humane Actions, and Chief Counſellour</l>
+                     <l>to truth, hold this as a diſparagement</l>
+                     <l>to our high office, that have hitherto</l>
+                     <l>been a Peace-maker: no, we never come</l>
+                     <l>where there is brawling, 'xcept i be to end</l>
+                     <l>the ſtrife, and you do wrong us to ſuſpect</l>
+                     <l>what never yet occaſion offered</l>
+                     <l>to your hard thoughts.—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>
+                        <hi>Reaſon,</hi> we honour thee, Mortals indeed</l>
+                     <l>have cauſe to bleſs thee, and adore thy light,</l>
+                     <l>whom the grave-Magi of all times, have courted;</l>
+                     <l>and in all civil Bodies haſt a place:</l>
+                     <l>Yea, we our ſelves are ſtiled rational,</l>
+                     <l>and this above the reſt of ani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>als:</l>
+                     <l>Thy luſtre ſets a goodly gloſs upon</l>
+                     <l>theſe worldly ſtrifes, but in heav'nly things,</l>
+                     <l>th'art wholy blind, thy wiſdome, folly, and</l>
+                     <l>thy light but darkneſs, theſe are ſpiritual</l>
+                     <l>that we're about, and you muſt leave us here:</l>
+                     <l>They are above you, they'r too high, too ſecret</l>
+                     <l>for all your ſcrutiny.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Reaſ.</speaker>
+                     <l>how's that, too ſecret for us, we that are</l>
+                     <l>Nature's Phyſician, have imbowel'd her</l>
+                     <l>to all her woers; and by ſeveral clues</l>
+                     <pb n="14" facs="tcp:51691:10"/>
+                     <l> have winded every miſtique maze within</l>
+                     <l>the Univerſal labyrinth of the World</l>
+                     <l>and trac'd their cauſes to their entities,</l>
+                     <l>and then proceeding, find them all in one,</l>
+                     <l>compriſed and centred in perfection</l>
+                     <l>can more be known to any one then this.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empirea.</speaker>
+                     <l>Yes, <hi>Faith</hi> knowes more, and tells us miſteries:</l>
+                     <l>not to be fathom'd by the utmoſt line</l>
+                     <l>of all thy cunning, of the Trinity,</l>
+                     <l>and that ſame Hypoſtatique union</l>
+                     <l>of the two Natures; Humane and Divine</l>
+                     <l>in one, The-anthropos, and of the great</l>
+                     <l>Change at the final diſſolution</l>
+                     <l>theſe thou art ignorant of.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>
+                        <hi>Reaſon</hi> 'ile help thee or thou art ore'thro<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </l>
+                     <l>what madneſs has poſſeſt the Soul to throw,</l>
+                     <l>durt in the face of him to whom ſhe owes</l>
+                     <l>her exc'lencie, ſince to be rational</l>
+                     <l>gives her th'advantage of that nobler ſtate</l>
+                     <l>whereby ſhe gloryeth over all the reſt</l>
+                     <l>of animals, if Reaſon lotted were</l>
+                     <l>by the great Soveraign of beings, to</l>
+                     <l>be Judge and Preſident in chief o're all</l>
+                     <l>thy family of faculties, how durſt</l>
+                     <l>thou thus abuſe her great authority,</l>
+                     <l>and call her powers in queſtion to, ſet up</l>
+                     <l>ſome new uſurping fancies of thy own,</l>
+                     <l>bred in the breaſts of melancholy folk,</l>
+                     <l>and vented by tradition through the World.</l>
+                     <l>If thou unthron'ſt thy reaſon thus, what wilt</l>
+                     <l>thou be ſurviving her authority?</l>
+                     <l>irrational, a ſtile that levels thee</l>
+                     <l>But equal to the ſtate of bruits and beaſts</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Baſe fe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd thy bolt is ſhot, thy gin is laid,</l>
+                     <l>I know thy wiles thy malice and thy ſpleen,</l>
+                     <l>in tempting thus our faculties away,</l>
+                     <l>from their allegiance to their Soveraign,</l>
+                     <l>who is not <hi>Reaſon,</hi> but that God that gave,</l>
+                     <l>her for a friend and helper to the Soul.</l>
+                     <l>By whoſe authority ſhe rul'd and raign'd,</l>
+                     <pb n="15" facs="tcp:51691:10"/>
+                     <l> and did diſpoſe as pleas'd her beſt to do.</l>
+                     <l>But when perverted, by the envious wiles</l>
+                     <l>in Paradice ſhe turned Rebel to</l>
+                     <l>her God, ſhee loſt her ſelf in tyrannie,</l>
+                     <l>by which o're ſwaid, we hitherto obeyed,</l>
+                     <l>and followed her dictates, running on</l>
+                     <l>thereby unto our own deſtruction:</l>
+                     <l>But ſince in mercy it hath pleaſed God</l>
+                     <l>(in order to that great Redemption</l>
+                     <l>his Son by dying purchaſed for us)</l>
+                     <l>to renovate our lapſed Natures by</l>
+                     <l>ſecret infuſions of diviner grace,</l>
+                     <l>we find our ſelves loſt to our ſelves, and not</l>
+                     <l>able by any power of our own</l>
+                     <l>to gain again that Innocence and peace</l>
+                     <l>we loſt. <hi>Reaſon</hi> has loſt her power whereby</l>
+                     <l>ſhe would conduct us through thoſe armed wayes</l>
+                     <l>that lead to happineſs;</l>
+                     <l>On this account do we diſclaim her truſt</l>
+                     <l>yeilding ourſelves unto a ſurer guide,</l>
+                     <l>yet hereupon we merrit not to be</l>
+                     <l>ſtiled irrational, we own her powers</l>
+                     <l>where ſhe is able and deſerves to rule</l>
+                     <l>in civil matters or in moral things.</l>
+                     <l>But in Divinity we ſore too high</l>
+                     <l>for her to follow with thoſe lamer wings,</l>
+                     <l>the fall has left her, nor do we decline</l>
+                     <l>her principles but rather would ſublime</l>
+                     <l>them to ſuperiour perfections;</l>
+                     <l>no way diveſting her but ſeeking to</l>
+                     <l>inveſt her with more noble energies;</l>
+                     <l>rendring our ſelves no wayes irrational</l>
+                     <l>but rather truely Metaphyſical:</l>
+                     <l>in ſeeking to regain that glorious ſtate,</l>
+                     <l>which others that would wiſe ones counted be,</l>
+                     <l>and chiefeſt Friends to reaſon-ſlighting, and</l>
+                     <l>inſtead thereof, chooſing a moments ſpace</l>
+                     <l>of Pleaſures, ending in eternal pains</l>
+                     <l>before thoſe ſure and never-dying joyes</l>
+                     <l>ſhew themſelves moſt irrational of all,</l>
+                     <pb n="16" facs="tcp:51691:11"/>
+                     <l> and ſuch art thou thy ſelf, O <hi>Lucifer,</hi>
+                     </l>
+                     <l>fine breaking thy allegiance to thy God</l>
+                     <l>thou of an Angel art become a Fiend</l>
+                     <l>Condemn'd to torments that ſhall have no end.</l>
+                     <l>But now our reaſon is grown impotent</l>
+                     <l>we readily ſubmit her to the Will</l>
+                     <l>of him, whoſe ſole commands ſufficient ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>as they'r revealed in his ſacred word</l>
+                     <l>to claim obedience to th'authority,</l>
+                     <l>of him who our Creator is and Lord:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Reaſon.</speaker>
+                     <l>But does that word that thou pretend'ſt to be</l>
+                     <l>ſuch an obſervour of exact ſuch hard</l>
+                     <l>and cruel uſage as thy fleſh ſuſtains?</l>
+                     <l>He is the God of ſoul and body both,</l>
+                     <l>both a like tendred by his ſacred care,</l>
+                     <l>whoſe gracious diſpoſition doth prefer</l>
+                     <l>Mercy before the goodlieſt ſacrifice:</l>
+                     <l>Nor would theſe bodies, that he lent unto</l>
+                     <l>their Angel g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſts, ſhould be abuſed thereby,</l>
+                     <l>nor yet the Temples of his ſpirit<g ref="char:punc">▪</g> be</l>
+                     <l>defac'd or ſpoil'd by cruel uſages,</l>
+                     <l>you are miſtaken, God requires no ſuch</l>
+                     <l>things at your hands—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>
+                        <hi>Reaſon</hi> thy talk is vain,</l>
+                     <l>Thy Counſels frivolous, who does not know</l>
+                     <l>the great concerns of an immortal ſoul,</l>
+                     <l>were this our handmaid, ſuch a friend to us</l>
+                     <l>as ſhe was firſt ordain'd to be, we ſhould</l>
+                     <l>uſe her accordingly but being now</l>
+                     <l>turn'd our profeſſed Enemy, wee'l ſtrive</l>
+                     <l>to keep her und<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r, as we ſolemnly</l>
+                     <l>hav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> vow'd in our Baptiſmal Covenant</l>
+                     <l>And thoſe rebellious member<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t are ſtill</l>
+                     <l>unruly under that ſame eaſie Yoke,</l>
+                     <l>Our Saviour hath bequeathed unto <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </l>
+                     <l>ſhall by conſtraint be made obedient to</l>
+                     <l>the Dictates of the heav'n aſpiring mind.</l>
+                     <l>Thus we her by an En<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhall ſubd<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</l>
+                     <l>and here<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y win that great and glorio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s Crown,</l>
+                     <l>w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ith ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>urs <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l rewarded, be</l>
+                     <pb n="17" facs="tcp:51691:11"/>
+                     <l> in heav'n with other of thoſe bleſſed ones</l>
+                     <l>that trampling on their clay'it Cottages,</l>
+                     <l>did thence aſcend into their ſeveral thrones</l>
+                     <l>And thus St. <hi>Paul,</hi> we find to conflict with</l>
+                     <l>more eagerneſs againſt theſe home-bred-foes,</l>
+                     <l>then e're he did with Beaſts at <hi>Epheſus;</hi>
+                     </l>
+                     <l>keeping his body under, and by force,</l>
+                     <l>ſubjecting it, leſt by its fraud or ſtrength,</l>
+                     <l>he ſhould his hope and glory loſe at length.</l>
+                     <l>What if theſe Tabernacles may be ſaid</l>
+                     <l>to be the Temples of the living God,</l>
+                     <l>if he will daign to dwell in Tents of Clay</l>
+                     <l>ſhall we not ſtrive to make it an abode,</l>
+                     <l>fit for his Majeſty? wee'l ſweep it clean,</l>
+                     <l>although the ſcratchings make it bleed again.</l>
+                     <l>Then hence you treacherous enemies of ours,</l>
+                     <l>our ear hence-forward ſhall be deaf unto</l>
+                     <l>your cunning whiſpers that perſue our ruin,</l>
+                     <l>avoid our preſence that intend to be</l>
+                     <l>reſerv'd a while unto imployments, which</l>
+                     <l>our purely aim'd devotion calls us to.</l>
+                     <stage>Exeunt</stage>
+                     <stage>
+                        <hi>Manet</hi> Empirea. <hi>Sola.</hi>
+                     </stage>
+                     <l>Can a Soul be alone and free from thoughts?</l>
+                     <l>that like Court-flatt'rers dog us every where,</l>
+                     <l>and with unwelcome noiſes ſtill moleſt,</l>
+                     <l>the peaceful calmneſs of an holy mind.</l>
+                     <l>Theſe buſie Fiends continually attend</l>
+                     <l>our walks, our motions, and retirements, when</l>
+                     <l>we ſhould be private, none but God and we,</l>
+                     <l>then ſteal theſe enemies upon us, and</l>
+                     <l>diſturb the flights of our devotion,</l>
+                     <l>by whiſpering unto our ſenſes baſe,</l>
+                     <l>unworthy things, that call aſide our hearts</l>
+                     <l>from its purſuits in meditation</l>
+                     <l>of heav'nly things. But though we know their force</l>
+                     <l>to be more potent every way then ours,</l>
+                     <l>yet in his ſtrength for whoſe ſake thus we ſtrive,</l>
+                     <pb n="18" facs="tcp:51691:12"/>
+                     <l> we dare appoſe our force, and faith ſayes yet</l>
+                     <l>We ſhall come of a more then conquerour.</l>
+                     <l>In the name then of him<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> whoſe name we bear,</l>
+                     <l>And unto whom we did Allegiance ſwear.</l>
+                     <l>In entring firſt this military ſtate,</l>
+                     <l>defying thoſe three enemies of his,</l>
+                     <l>
+                        <hi>World, Fleſh,</hi> and <hi>Devil,</hi> I conjure you all</l>
+                     <l>my Sences, and my nobler faculties,</l>
+                     <l>to ſummon all your ſtrengths, and with me joyn,</l>
+                     <l>againſt this three-fold Enemy of ours,</l>
+                     <l>whoſe force ſo great, and pollicy ſo deep,</l>
+                     <l>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ires the utmoſt of our power and skill,</l>
+                     <l>to deal with, And my Sences, you that have</l>
+                     <l>the greateſt truſt about us, (for by you</l>
+                     <l>all objects are tranſmitted unto our</l>
+                     <l>Superiour faculties) have you a care,</l>
+                     <l>of this your charge; our ſtate depends on you:</l>
+                     <l>If you prove falſe, by baſe confed'racy,</l>
+                     <l>with thoſe our Enemies (that ſtill will by</l>
+                     <l>their fly inſinuations labour to</l>
+                     <l>withdraw you from allegiance to your God)</l>
+                     <l>you ruine us to all Eternity:</l>
+                     <l>liſten not to their Sirens ſongs, they will</l>
+                     <l>eaſily tempt you to Intemperance;</l>
+                     <l>but heed them not, however pleaſantly</l>
+                     <l>they look; if you imbrace them, I'me undone!</l>
+                     <l>and in my health, you only can be ſafe.</l>
+                     <l>There are reſerved better joyes than theſe,</l>
+                     <l>to feaſt you with, when <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>his frail life is done.</l>
+                     <l>Theſe pleaſures you delight in, can afford</l>
+                     <l>no true contentment to a Death-leſs ſoul,</l>
+                     <l>whoſe vaſter appetites ſtill thirſt t'obtain</l>
+                     <l>more ſolid joyes, that know no date nor bounds,</l>
+                     <l>freed from all interruptions of loſs,</l>
+                     <l>or caſualty; our boundleſs aims can be</l>
+                     <l>ſatisfyed no ways, with inferiour things,</l>
+                     <l>which looſe themſelves ev'n in fruition,</l>
+                     <l>and are at beſt but periſhing, and vain.</l>
+                     <l>Thoſe muddy pleaſures that continually</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>llure our ſenſual appetites, diſturb</l>
+                     <pb n="19" facs="tcp:51691:12"/>
+                     <l> the pleaſures of the Soul, who is deſign'd</l>
+                     <l>for nobler joyes, and by the groſſer fumes</l>
+                     <l>that riſe from thence, ſo cloud our faculties,</l>
+                     <l>that we cannot diſcern thoſe pure delights,</l>
+                     <l>that in Reverſion we expect to have,</l>
+                     <l>after this life; when the remembrance</l>
+                     <l>of earthly pleaſures will but torture us,</l>
+                     <l>when we ſhall ſee them gliding all away,</l>
+                     <l>and leave us nothing but the ſtinging thought.</l>
+                     <l>of an afflicted Conſcience, to reflect</l>
+                     <l>upon the woful bargain we have made,</l>
+                     <l>in changing an eternity of joyes</l>
+                     <l>for momentany droſs—my Sences then</l>
+                     <l>injoy the pleaſures of this world, as they</l>
+                     <l>were firſt deſign'd, as your <hi>viaticum,</hi>
+                     </l>
+                     <l>as the repaſts our gracious father has</l>
+                     <l>aſſign'd us for our journey; let them be</l>
+                     <l>accepted as the tokens of his Love,</l>
+                     <l>Witneſſes of his bounty, and the meane</l>
+                     <l>t'inable us in this our tott'ring ſhed,</l>
+                     <l>t'imploy our ſtrength in ſerving of our God.</l>
+                     <l>Who when you ſhall have no more need of them,</l>
+                     <l>nor we of you, ſhall recompence our truſt</l>
+                     <l>with the rewards of never-dying joyes,</l>
+                     <l>and we for ever then ſhall ſing his praiſe.</l>
+                     <stage>Exit.</stage>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scena. Secunda.</head>
+                  <stage>Satan.</stage>
+                  <l>What preaching ſtill (thou Enemy of ours)</l>
+                  <l>ſtill plotting counter-workes to overthrow</l>
+                  <l>our pollicies? then <hi>Satan</hi> thou art fool'd,</l>
+                  <l>gull'd by a ſimple animal, and ſham'd</l>
+                  <l>thou art but <hi>Beelzebub,</hi> the God of flies,</l>
+                  <l>not he that's ſtil'd the Soveraign of the Air,</l>
+                  <l>and this worlds prince, theſe are but mockeries,</l>
+                  <l>and ſcofs, the ſacred Oracles of truth,</l>
+                  <l>have put upon thee, and our power is but</l>
+                  <l>a trifle, while we thus grapple with her</l>
+                  <pb n="20" facs="tcp:51691:13"/>
+                  <l> that has victorious <hi>Jeſus</hi> on her ſide.</l>
+                  <l>But can th'experience of ſo many years</l>
+                  <l>ſerve us no better now inſtead, then thus</l>
+                  <l>though crowned with ſo many victories?</l>
+                  <l>has our imployment been e're ſince the worlds</l>
+                  <l>firſt ruine, daily to invent new wiles,</l>
+                  <l>and ſtratagems, whereby to overthrow</l>
+                  <l>the numerous iſſue of that woful Sire,</l>
+                  <l>that we at firſt unhing'd from his free ſtate</l>
+                  <l>and brought into this Captive ſtate of ours?</l>
+                  <l>have we ſo long been converſant with hearts</l>
+                  <l>and known their ſhifts, their inclinations,</l>
+                  <l>and tendencies, have been ſo long a ſpie</l>
+                  <l>unto the ſecret motions of their minds,</l>
+                  <l>which we by the laſt word or action</l>
+                  <l>can eaſily diſcover and then ſuit</l>
+                  <l>temptations accordingly, to bring</l>
+                  <l>about our great deſignes, and fail we now?</l>
+                  <l>then the old ſerpent is a novice too,</l>
+                  <l>we may lie down and fret our envious breaſt</l>
+                  <l>to ſee victorious ſalvation,</l>
+                  <l>befool our policies, and curb our powers;</l>
+                  <l>yet not contented with an idle hate</l>
+                  <l>though we are conquer'd we muſt ſhew our ſpleen,</l>
+                  <l>It is the fate our angry Soveraign,</l>
+                  <l>hath faſtned to our malice that it ſhould</l>
+                  <l>make his almighty power more glorious</l>
+                  <l>by thoſe defeats it ſuffereth thereby:</l>
+                  <l>what? ſhe is young, her loves are yet new fledg'd,</l>
+                  <l>her reſolutions not confirmed by,</l>
+                  <l>yet ſettled habits, and her enemy,</l>
+                  <l>the fleſh, (blooming with youth) importunate,</l>
+                  <l>for fuel to ſuffice its vagrant fires:</l>
+                  <l>ſhe may be tempted yet for all her nice</l>
+                  <l>and ſtrict behaviour though her ſqueamiſh maw</l>
+                  <l>can't away with the worlds delicates,</l>
+                  <l>though ſugred ne're ſo finely, but prefers</l>
+                  <l>a mortifying abſtinence before</l>
+                  <l>thoſe fuller meals that others do as much</l>
+                  <l>long to repaſt on, ſhe may ſoon be tir'd</l>
+                  <pb n="21" facs="tcp:51691:13"/>
+                  <l> with dragging on through ſuch thorny ways</l>
+                  <l>of abſtinence, while her impatient fleſh,</l>
+                  <l>makes exclamations of her cruelty.</l>
+                  <l>Or if this fails and ſhe victoriouſly</l>
+                  <l>perſiſt's in her renewed purpoſes,</l>
+                  <l>we have another ſtratagem to act,</l>
+                  <l>What our allurements can't prevail to do,</l>
+                  <l>
+                     <hi>Reproach</hi> and <hi>Scandal</hi> ſhall inforce her to.</l>
+                  <l>We want not inſtruments that eas'ly can,</l>
+                  <l>bring this about whoſe tongues firſt kindled by</l>
+                  <l>our fires, will dare to ſcandalize that faith</l>
+                  <l>themſelves pretend to, and by mocks and jeers</l>
+                  <l>blemiſh the purity of thoſe, whom they</l>
+                  <l>care not to imitate—Happy the times</l>
+                  <l>for me, when goodneſs paſs with men for crimes</l>
+                  <l>nor while our agents thus we ſhall imploy,</l>
+                  <l>will be ſlack unto the utmoſt linck</l>
+                  <l>of our controuling Chain, we will attend</l>
+                  <l>her Cloſet, and be ready with the ſoyl</l>
+                  <l>of Vain and Idle thoughts, to mix the fumes</l>
+                  <l>of the pure incenſe of her holy prayers;</l>
+                  <l>to ſlay her comforts with her doubts and fears,</l>
+                  <l>and turn her conſolations into tears.</l>
+                  <l>Thus any way ſhall ſerve to wreak our ſpight,</l>
+                  <l>Weel hurt and wound her though we loſe the fight.</l>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scena Tertia.</head>
+                  <stage>
+                     <hi>The Scene, a Garden in which walking</hi> Empirea, <hi>the</hi> Senſes, <hi>atten<g ref="char:EOLhyphen"/>dant,</hi> Faith.</stage>
+                  <sp>
+                     <speaker>Empirea.</speaker>
+                     <l>O what a glorious ſubject have we here</l>
+                     <l>to raiſe us into contemplation,</l>
+                     <l>of our Creators Glory! while we ſee</l>
+                     <l>in every thing, the footſteps of his power,</l>
+                     <l>and wiſdome manifeſted; O how great!</l>
+                     <l>how rich and glorious, muſt the fountain be,</l>
+                     <l>where theſe fair ſtreams their flow and being have!</l>
+                     <pb n="22" facs="tcp:51691:14"/>
+                     <l> How great that wiſedom that ſo orderly,</l>
+                     <l>in the conjuncture of this goodly frame</l>
+                     <l>of nature hath diſpos'd its ſeveral parts!</l>
+                     <l>How great that power whoſe only <hi>fiat</hi> could</l>
+                     <l>ſpeak them all out of nothing into theſe</l>
+                     <l>their ſeveral beings! and then give them Lawes</l>
+                     <l>for conſervation by a conſtant chime,</l>
+                     <l>of never ceaſing generation,</l>
+                     <l>by which I ſee the Plants that lately were</l>
+                     <l>intomb'd within the Bowels of the Earth,</l>
+                     <l>now to regain a Reſurrection,</l>
+                     <l>and lifting up their heads again to heav'n,</l>
+                     <l>as 'twere, in thankfulneſs unto that power,</l>
+                     <l>that ſo redeem'd them from their Winter ſleep.</l>
+                     <l>How beautiful, and lovely nature ſeems!</l>
+                     <l>like to a Bride upon her nuptial day,</l>
+                     <l>How gay the flow'rs, with what vari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ty!</l>
+                     <l>of colours, tinctur'd by the artful hand</l>
+                     <l>of their Creator, while their ſweetneſs ſtrives</l>
+                     <l>in emulation for preheminence?</l>
+                     <l>How rich a Sallad does the feilds aford,</l>
+                     <l>as food for them, that then are food for us?</l>
+                     <l>How wonderfully hath his providence</l>
+                     <l>inrich't the paths, on which we heedleſs walk,</l>
+                     <l>with theſe innumerable plants, indued</l>
+                     <l>each with 'its ſeveral property and uſe,</l>
+                     <l>whoſe various knowledge he has granted to</l>
+                     <l>the mind of man, to ſuit them to his ends</l>
+                     <l>of Health, or Pleaſure: 'mongſt the branches ſee,</l>
+                     <l>how chearfully the birds expreſs their joyes,</l>
+                     <l>for this ſweet ſeaſon by their merry notes,</l>
+                     <l>ſporting themſelves in the light Region;</l>
+                     <l>and then deſcending to the Earth for food,</l>
+                     <l>or to the purling ſtreams, to wet their throats,</l>
+                     <l>when dry with chirping, and then lift their heads</l>
+                     <l>unto the skies; in thankfulneſs as 'twere</l>
+                     <l>for their Creators bounty! Pretty things,</l>
+                     <l>how brisk they are, that lately hung the head,</l>
+                     <l>oppreſt with hardſhip of the Winter paſt,</l>
+                     <l>y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t then our heav'nly father's providence</l>
+                     <pb n="23" facs="tcp:51691:14"/>
+                     <l> provided for them, not a Sparrow but</l>
+                     <l>was the peculiar object of his care?</l>
+                     <l>And how much more ſhall we pertake thereof,</l>
+                     <l>that have ſo great intereſt in his love,</l>
+                     <l>we are more dear than ſparrowes, ſo ſayes he</l>
+                     <l>that bought us; we were deer to him indeed!</l>
+                     <l>then let diſtruſt, or fretfull care, no more</l>
+                     <l>oppreſs our ſpirits: while we have a God,</l>
+                     <l>that careth for us, we will reſt on him.</l>
+                     <l>
+                        <hi>And now</hi> my eyes, that have the priviledge</l>
+                     <l>of other things; by a reſtringent nerve,</l>
+                     <l>to have your ſight inabled to aſcend</l>
+                     <l>into ſuperiour objects, that we might</l>
+                     <l>ſo comprehend the whole Creation,</l>
+                     <l>and therein contemplate your Makers Glory;</l>
+                     <l>look to that glorious place, that's pav'd with Stars,</l>
+                     <l>where thoſe great Worlds of light, the Sun and Moon:</l>
+                     <l>perform their courſes, and give lawes thereby,</l>
+                     <l>unto our times and ſeaſons, while the reſt,</l>
+                     <l>within their ſeveral Orbs do variouſly</l>
+                     <l>point out ſuch knowledge to the mind of Man,</l>
+                     <l>whereby he ſee's how lower bodies are</l>
+                     <l>govern'd, by their higher influence,</l>
+                     <l>And yet this goodly ſpangled covering,</l>
+                     <l>and Roof of this inferiour Ball, whereon</l>
+                     <l>we ſojourn, but the outſide is of thoſe</l>
+                     <l>ſame glorious dwellings of the Soveraign</l>
+                     <l>of all, where he, compaſt with numerous hoſts</l>
+                     <l>of Angels, raigns in everlaſting bliſs.</l>
+                     <l>There, there's our center, thither we aſpire,</l>
+                     <l>and long to leave this our impriſoning Earth;</l>
+                     <l>that thither we might mount unto thoſe joyes,</l>
+                     <l>that there attend our coming, purchaſed,</l>
+                     <l>and then prepared by our gracious Lord;</l>
+                     <l>Who keeping there poſſeſſion for us, we</l>
+                     <l>ev'n long to meet with; he alone it is,</l>
+                     <l>that is our Hope, our Life, our Crown, our bliſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Viſus.</speaker>
+                     <l>What goodly creature's that in yonder walk?</l>
+                     <l>Some Angel ſure in mortal habit, that</l>
+                     <l>comes to invade us with aſtouiſhment</l>
+                     <pb n="24" facs="tcp:51691:15"/>
+                     <l> How well thoſe brave attires become her neat,</l>
+                     <l>proportion'd limbs—But what a Syrens face,—</l>
+                     <l>Crowns all their luſtre, tempting ſmooth and freſh</l>
+                     <l>enough to make the bloud dance in the veins</l>
+                     <l>of the moſt frozen-hearted Anchorite.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Whence this ſurpriſe? How came that amorous glance,</l>
+                     <l>ſtoln from the ſerious contemplation,</l>
+                     <l>of Natures far more innocent delights?</l>
+                     <l>Thus treach'rous ſtill, forbear, too well we know</l>
+                     <l>the danger in thoſe ſecret glances ly,</l>
+                     <l>we have an Enemy within our breaſt,</l>
+                     <l>to whom theſe objects firſt transmitted by</l>
+                     <l>your treacherous conveyance will imbrace</l>
+                     <l>them with the heats of baſe and luſtfull fires,</l>
+                     <l>to you betray that holy purity,</l>
+                     <l>of our intentions to a brutiſh Fiend.</l>
+                     <l>Thus holy <hi>David</hi> by a wanton glance,</l>
+                     <l>was foil'd, and caſt into the ſnares of <hi>Luſt,</hi>
+                     </l>
+                     <l>which made him when recovered to pray,</l>
+                     <l>to have his eyes with-held from Vanity.</l>
+                     <l>Thus patient <hi>Job,</hi> that knew the danger too</l>
+                     <l>of theſe ſame ſpies, bound them by Covenant,</l>
+                     <l>never to look or gaze upon a Maid,</l>
+                     <l>O ſtrange deceits of theſe our ſences, how,</l>
+                     <l>alas how oft have we betrayed bin</l>
+                     <l>by theſe adul'trous glances' When our eyes</l>
+                     <l>have ſet our heart on fire, with flames of <hi>Luſt,</hi>
+                     </l>
+                     <l>lew'd books, and images that have conveyed</l>
+                     <l>wanton imaginations into us,</l>
+                     <l>And ſtain'd the purity of our beſt thoughts,</l>
+                     <l>O never may we ſee thoſe dayes again!</l>
+                     <l>What are theſe creatures, we ſo dote upon,</l>
+                     <l>fine poliſh't duſt that ſoon will cheat the hopes</l>
+                     <l>of thoſe that moſt deſire them, with a quick</l>
+                     <l>return to wrin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>les and deformity,</l>
+                     <l>Beautie's a fading flow'r that ſoon decayes,</l>
+                     <l>and ends at laſt in rottenneſs and ſtench,</l>
+                     <l>And ſo my ſenſes all you dote upon,</l>
+                     <l>Will take their farewell in Corruption.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Faith.</speaker>
+                     <l>But I diſcerne incorruptible joyes,</l>
+                     <pb n="27" facs="tcp:51691:15"/>
+                     <l> ſuitable objects for a deathleſs Soul,</l>
+                     <l>that when theſe temporary pleaſures, ſhall</l>
+                     <l>languiſh into their Sepulchres of duſt,</l>
+                     <l>ſhall bleſs them with an endleſs Viſion</l>
+                     <l>of the Creators Glory, whom thou then</l>
+                     <l>ſhal't ſee no more by the reflection</l>
+                     <l>of theſe ſame outward things, but face to face</l>
+                     <l>there ſhall we ſee with raviſhment of Joy,</l>
+                     <l>Our Saviour cloth'd with that precious fleſh,</l>
+                     <l>in which he ſuffered, glorifyed with all</l>
+                     <l>the Royalties of his great Deity,</l>
+                     <l>there ſhall we ſee in a full Viſion,</l>
+                     <l>all the great Counſels of our God reveal'd,</l>
+                     <l>in Order unto our Redemption.</l>
+                     <l>And all the ſecret cauſes of theſe things,</l>
+                     <l>that here our underſtandings, blunted by</l>
+                     <l>our fall, are impotent, in peircing through,</l>
+                     <l>Whereby the Soul in Extafies of wonder,</l>
+                     <l>rapt, ſhall behold her great Creators Glory,</l>
+                     <l>and Joy therein for ever, theſe are ſights</l>
+                     <l>bleſſing the mind, with pure and true delights.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Audit.</speaker>
+                     <l>But what a voice was there, when now ſhe ſung</l>
+                     <l>the Spheres did nere afford ſuch harmony,</l>
+                     <l>ſo raviſhing as were thoſe melting airs,</l>
+                     <l>that in delicious quavers flowed from</l>
+                     <l>the pretty lips of that ſame lovely Dame.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Faith.</speaker>
+                     <l>Is there ſuch Muſick then in mortal breath,</l>
+                     <l>that's ſcattered with the wind decayes and dyes:</l>
+                     <l>what raviſhment, and raptures muſt there then</l>
+                     <l>need's 'tend the Ecch's of heav'ns londer Joyes?</l>
+                     <l>when in triumphant ſongs, thoſe glorious hoſts</l>
+                     <l>of Saints and Angels, <hi>Halelu-jah's</hi> chant,</l>
+                     <l>to their Creators Glory—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tactus.</speaker>
+                     <l>—O how ſoft,</l>
+                     <l>and delicate are thoſe plump lips of her's,</l>
+                     <l>how would they melt in luſhious Vapours to</l>
+                     <l>the cloſe impreſſion of an amorous kiſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Faith:</speaker>
+                     <l>O folly of a Youthfull fancy thus</l>
+                     <l>to tempt a Soul unto ſuch ſenſual thoughts:</l>
+                     <l>thoſe amorous touches and imbraces may</l>
+                     <pb n="26" facs="tcp:51691:16"/>
+                     <l> pleaſe you a while, but when your Idle Clay,</l>
+                     <l>ſhall moulder into rottenneſs and dirt,</l>
+                     <l>where will the pleaſure of thoſe touches be?</l>
+                     <l>T'will not be long, ere the impriſon'd Soul,</l>
+                     <l>be looſed from this corruptible frame,</l>
+                     <l>which ſhe muſt render to her heav'nly Spouſe;</l>
+                     <l>as a pure Veſſel ſanctifyed and free</l>
+                     <l>from all the ſtains of <hi>Luſts</hi> impurity:</l>
+                     <l>meanwhile let the ungovern'd youth but think</l>
+                     <l>upon the ſtripes and wounds of him, that dyed</l>
+                     <l>to ranſome him, whoſe martyr'd fleſh was free,</l>
+                     <l>from all Indulgencies of eaſe and ſloth,</l>
+                     <l>but uſ'd to labours, watchings, toils and ſmart:</l>
+                     <l>Did then our head indure ſuch miſerie,</l>
+                     <l>and ſhall the members ſnort in luxurie?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Olfact.</speaker>
+                     <l>Never the <hi>India</hi>'s with their numerous ſtores,</l>
+                     <l>of ſpices, could perfume the ambient Air,</l>
+                     <l>with ſuch a fragour as ev'n now there came</l>
+                     <l>from her rich-ſented garments as ſhe paſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Faith.</speaker>
+                     <l>Yet is the incenſe of a holy prayer,</l>
+                     <l>perfum'd by faith, more choice and ſweet than they,</l>
+                     <l>more ſweet the Spikenard of the Church, when ſhe</l>
+                     <l>perfum'd the Table of her King therewith.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Guſtus.</speaker>
+                     <l>What ever pleaſures, yet the ſenſes have</l>
+                     <l>admired in that goodly Paragon,</l>
+                     <l>I count as nothing to the luſhious ſweets,</l>
+                     <l>that in a well prepared Banquet, I</l>
+                     <l>have feaſted on, ſtor'd with the chiefeſt Wines</l>
+                     <l>that <hi>France,</hi> or the <hi>Canaries</hi> could afford,</l>
+                     <l>with rich Conſerves and Viands intermixt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Such are the thoughts of fooliſh <hi>Epicures,</hi>
+                     </l>
+                     <l>that think no Pleaſure comparable to</l>
+                     <l>the gratifying of their Appetites,</l>
+                     <l>with dainty morſels, or delicious wines,</l>
+                     <l>but let thoſe Enemies to <hi>Temperance,</hi>
+                     </l>
+                     <l>but weigh the uſes of theſe things aright,</l>
+                     <l>for which they were intended, and they may</l>
+                     <l>ſee their abuſe to make them worſe than Beaſts!</l>
+                     <l>whoſe need's the ſame with ours, yet uſe their food,</l>
+                     <l>but to ſuſtain their natures, not to exceſs,</l>
+                     <pb n="27" facs="tcp:51691:16"/>
+                     <l> and their Felld-ſalads ſerves their turn as well</l>
+                     <l>as all our Arts of Cookerie can ours:</l>
+                     <l>what are theſe meats and drinks, that we do ſo</l>
+                     <l>abuſe but dayly reparations of</l>
+                     <l>theſe our decaying cottages, that yet</l>
+                     <l>will fail at length and both together be</l>
+                     <l>turn'd to Corruption, he that daintier feeds,</l>
+                     <l>at length makes but the fatter feaſt for worms,</l>
+                     <l>Beaſts feed on graſs, and Man on Beaſts, and Worms</l>
+                     <l>devour the Man; <hi>All is corruption.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Faith.</speaker>
+                     <l>Labour not for the meat that periſheth,</l>
+                     <l>for ther's incorruptible food for Souls;</l>
+                     <l>the <hi>hidden Manna,</hi> and the <hi>Bread of Life.</hi>
+                     </l>
+                     <l>Man liveth not by Bread alone, but by</l>
+                     <l>the ſacred Word of the Eternal God.</l>
+                     <l>That Word, that was more ſweet to <hi>Davids</hi> taſt,</l>
+                     <l>than Marrow, or the ſweeteſt Honeycomb.</l>
+                     <l>By this the Soul is nouriſhed unto</l>
+                     <l>Eternal Life, the other ends in Death.</l>
+                     <l>Let not your Tables then become your ſnare,</l>
+                     <l>but uſe your comforts to thoſe ſober ends</l>
+                     <l>they were intended, not for ſurfeiting,</l>
+                     <l>or pampering of your unruly fleſh,</l>
+                     <l>but with ſuch moderation, as you may</l>
+                     <l>thereby be fitted better to go through</l>
+                     <l>the Labours of this Life, in ſerving him,</l>
+                     <l>whoſe bounty you pertake of, and return</l>
+                     <l>Praiſe, Love, and Duty to him for the ſame.</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <pb n="26" facs="tcp:51691:17"/>
+               <head>Actus Tertius.</head>
+               <div n="1" type="scene">
+                  <head>Scena Prima.</head>
+                  <stage>Coſmus.</stage>
+                  <l>But what a peeviſh thing is this ſame Soul,</l>
+                  <l>that thus diſdains whatever kindneſs we</l>
+                  <l>profeſs unto her, ſlighting all our gifts,</l>
+                  <l>pretending falſneſs in them, that they are</l>
+                  <l>but fair-fac't Monſters, with a ſtinging taile,</l>
+                  <l>frights all her ſenſes from imbraceing us,</l>
+                  <l>ſoothing them up with hopes of fairer Joyes.</l>
+                  <l>
+                     <hi>Faith,</hi> is the ſpie that brings her meſſages,</l>
+                  <l>of Rich Reverſions, in a promiſ'd land:</l>
+                  <l>a fair, and glorious inheritance,</l>
+                  <l>the intereſt of which, now with the hopes,</l>
+                  <l>of the Reverſion, ſeem's the only ſtock</l>
+                  <l>on which ſhe lives; She ſpeaks of inward Joyes,</l>
+                  <l>and ſecret raptures, that do out-vy</l>
+                  <l>the greateſt pleaſures that my Monarch's can</l>
+                  <l>poſſeſs and thus ſhe Vilifies and flights</l>
+                  <l>our ſtate, and tramples on our beſt delights:</l>
+                  <l>But yet wee'l be revenged, and ſoon turn</l>
+                  <l>the Courtſhip of my ſmiles, into a frown.</l>
+                  <l>My proffers into pains, and make her know,</l>
+                  <l>The world can puniſh where ſhe cannot woo.</l>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="31" facs="tcp:51691:17"/>
+                  <head>Scena. Secunda.</head>
+                  <stage>Empirea, Slander, Poverty, Sickneſs, Faith, Hope, <hi>and</hi> Charity.</stage>
+                  <sp>
+                     <speaker>Slander.</speaker>
+                     <l>O what a goodly Puritan is here,</l>
+                     <l>ſqueezing out tears, and ſnotting of his Walls,</l>
+                     <l>as though Religion only did conſiſt,</l>
+                     <l>in ſuch a ſpecious Piety as this:</l>
+                     <l>to hunt a Conventicle, and then look,</l>
+                     <l>demurely on it, with a ſtarched face,</l>
+                     <l>to ſay forſooth, and yea, and tell no lyes</l>
+                     <l>and ſwear no Oaths, though to decide a right,</l>
+                     <l>or keep a law; what a fair Phariſce</l>
+                     <l>is this; a cunning Fox i'le warrant ye,</l>
+                     <l>that makes the world believe him honeſt, and</l>
+                     <l>yet dares not be ſo for his ears, for fear</l>
+                     <l>he ſhould not then be rich, let him alone,</l>
+                     <l>and you will ſhortly have him preaching out</l>
+                     <l>of ſome old Priſon-Grates or other, where</l>
+                     <l>for his deceits, the Lawyer ſhould center him<g ref="char:punc">▪</g>
+                     </l>
+                     <l>And then his faigned Piety ſhall be</l>
+                     <l>Reveal'd, the miſterie of Iniquity:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir:</speaker>
+                     <l>Rave on mad <hi>World,</hi> and ſpend your cenſures ſtill,</l>
+                     <l>we know your malice, and the object with</l>
+                     <l>it allwayes aym'd at; <hi>Holineſs</hi> could nere</l>
+                     <l>find other entertainments yet then ſcoffs</l>
+                     <l>and mockings, ſlanders and reproaches;</l>
+                     <l>but it was my Saviours lot to find the ſame,</l>
+                     <l>among thoſe <hi>Jews,</hi> that would Blaſphemouſly.</l>
+                     <l>'ford him no better ſtile then <hi>Beelzebub.</hi>
+                     </l>
+                     <l>And may not we as well indure to be</l>
+                     <l>Nick't-nam'd and ſcoft at? Did not he foretell</l>
+                     <l>what we ſhould look for? let the <hi>World</hi> mock on,</l>
+                     <pb n="31" facs="tcp:51691:18"/>
+                     <l> henceforth ile take it as my portion.</l>
+                     <l>But is it my preciſer living, that</l>
+                     <l>give's the oſtence, if that be ſcandal I'le</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſtand them more, and yet be Viler ſtill</l>
+                     <l>Let us <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e branded with Hypocriſie,</l>
+                     <l>God knowes our heart and that's enough for me.</l>
+                     <l>The time will come, when they ſhall come to die,</l>
+                     <l>That they'l be found the Hipocrites not I.</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ith.</speaker>
+                     <l>The time will come when all the World ſhall ſtand,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Tribunal, to receive their Doom.</l>
+                     <l>That theſe ſame Enemies of his, and thine,</l>
+                     <l>ſhall ſee that Innocence, that here was fain</l>
+                     <l>to ſeek out corners, to avoid the Rage</l>
+                     <l>of their malicious Enemies, ſhall be made</l>
+                     <l>the ſubject of thy Praiſe, and of his glory:</l>
+                     <l>while they mean while ſhall for their malice be</l>
+                     <l>Caſt into gulphs of endleſs miſerie,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Charity.</speaker>
+                     <l>Yet let their malice, be required with</l>
+                     <l>ſweeter return's from thee, let them obtain</l>
+                     <l>thy pardon, and thy prayers.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <p>—So they ſhall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <l>Come <hi>Soul,</hi> do'ſt know me, in this ragged Garb?</l>
+                     <l>I am no Courtier, thou may'ſt well perceive.</l>
+                     <l>Thy houſe is like to be no Pallace, while</l>
+                     <l>I ſtay in't, thou muſt be content with poor</l>
+                     <l>and naked Walls, my Dy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t too is ſpare<g ref="char:punc">▪</g>
+                     </l>
+                     <l>my lodging hard, my Bolſter ſtuft with cares,</l>
+                     <l>My Phyſick Labour, and my ſauce is ſweat:</l>
+                     <l>With which I toyl for whatſoe're I eat.</l>
+                     <l>Thus have I told you of my quality,</l>
+                     <l>And further, I am called Poverty.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>
+                        <hi>Poverty,</hi> welcom; here ſit down by me,</l>
+                     <l>upon this Dunghill, thou wert once a Friend</l>
+                     <l>to <hi>Job,</hi> his faithfull Steward, did'ſt improve</l>
+                     <l>then his eſtate to good advantage, and</l>
+                     <l>perhaps thou mayeſt do mine ſo, I have long</l>
+                     <l>Expected thee, yet net never did invite</l>
+                     <pb n="31" facs="tcp:51691:18"/>
+                     <l> thy company by any looſe or vain</l>
+                     <l>courſes of ſpending, or neglect to get</l>
+                     <l>by lawfull wayes. Thou comeſt freely, ſent</l>
+                     <l>by the Almighty; welcome, though it be</l>
+                     <l>to ſtrip me of my beſt injoyments, and</l>
+                     <l>leave me as naked as at firſt I came</l>
+                     <l>into the World, it is my God that gave</l>
+                     <l>them to me and now he requires them back.</l>
+                     <l>I freely render them to him again,</l>
+                     <l>I know his goodneſs will not let me want</l>
+                     <l>that which he gives to ſparrowes and to flow'rs,</l>
+                     <l>He is my God ſtill, that's enough, and I</l>
+                     <l>have better treaſures ſtor'd in him than theſe,</l>
+                     <l>—have I not <hi>Faith?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Faith.</speaker>
+                     <l>Dear Soul thou haſt, and his</l>
+                     <l>Boſom is thy Exchequer, whence thou may'ſt</l>
+                     <l>Exhauſt rich mines of Comfort; there's a Crown</l>
+                     <l>and Kingdome for thee too; in Heav'n thou haſt</l>
+                     <l>Treaſures laid up that thou canſt never be</l>
+                     <l>bereaved of by any Caſualty.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Bleſſed be God: and having ſuch a ſtore</l>
+                     <l>henceforth my ſelf I'le never reckon poor.</l>
+                     <l>But what art thou, that look'ſt ſo pale and grim?</l>
+                     <l>ſcarefull as death.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sickneſs.</speaker>
+                     <l>A Purſevant to him:</l>
+                     <l>his Meſſenger, that come to warn thy haſt</l>
+                     <l>toward a Diſſolution.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>—Welcome laſt</l>
+                     <l>of all, yet welcom'ſt deareſt <hi>Sickneſs,</hi> come</l>
+                     <l>and lead we gently to my fathers home,</l>
+                     <l>I'me weary of this World, and long to be</l>
+                     <l>diſſolv'd, that with my Saviour I may be;</l>
+                     <l>I long to have poſſeſſion of thoſe joyes,</l>
+                     <l>that I have waited for, and have my Eyes</l>
+                     <l>wipt from thoſe tears, that in this World find ſprings</l>
+                     <l>ſtill to add moyſture to them, and to ſing</l>
+                     <l>—my <hi>Halelu-jah's:</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>Soft a while you run</l>
+                     <pb n="31" facs="tcp:51691:19"/>
+                     <l> too ſwift, thin'kſt thou thy work is fully done?</l>
+                     <l>where are thoſe evidences that ſhould give</l>
+                     <l>thee title to thoſe Joyes? thou mayeſt believe</l>
+                     <l>amiſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>Yet <hi>Satan,</hi> this ſame word is ſure</l>
+                     <l>whereon I build my hopes and ſhall indure</l>
+                     <l>to confirm this my faith, when thou and thy</l>
+                     <l>accuſing fiends ſhall be condemn'd thereby.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Satan.</speaker>
+                     <l>But thou may'ſt be miſtaken in the ground,</l>
+                     <l>Of this thy faith; it may be ſandy found.</l>
+                     <l>Thy faith may be preſumption, and the reſt</l>
+                     <l>Of all thy graces, ſeeming, but at b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Empir.</speaker>
+                     <l>No <hi>Satan,</hi> 'tis not as thou doſt ſuggeſt,</l>
+                     <l>I've built upon a Rock, that Rock is Chriſt.</l>
+                     <l>Whoſe faithfull ſervant I have been, and find,</l>
+                     <l>The ſame ſuggeſted likewiſe to my mind.</l>
+                     <l>By him that is the ſpirit of truth, whom I</l>
+                     <l>Believing muſt return to thee the ly.</l>
+                     <l>Then hence malicious fiend, and tempt no more,</l>
+                     <l>or if thou dareſt (as I look to find,</l>
+                     <l>thy malice greateſt now, when it ha's leaſt</l>
+                     <l>time for to act in) yet O <hi>Satan,</hi> know</l>
+                     <l>that ever conquering Enemy of thine,</l>
+                     <l>with whom I now a going am to Raign,</l>
+                     <l>that has protected me againſt thy ſpight</l>
+                     <l>ſo long, will not now leave me, but will keep</l>
+                     <l>me to the laſt, untill my warfare's done,</l>
+                     <l>Then Death ſhall give me <hi>Victory,</hi> and a Crown.</l>
+                     <l>And now Vain <hi>World</hi> farewell; falſe Enemy,</l>
+                     <l>Let theſe bones reſt, and thou ſhall not hurt me,</l>
+                     <l>No more henceforth, need I to fear thy ſpight,</l>
+                     <l>For I have conquered and won the fight.</l>
+                     <l>My Crown is ready and I only ſtay,</l>
+                     <l>For my great Captains word, to call away.</l>
+                     <l>
+                        <hi>Farewell,</hi> my fleſh no more a ſhed to me,</l>
+                     <l>But Feaſts for worms, and yet how loth are we,</l>
+                     <l>To part that have ſo long been partners here,</l>
+                     <l>Yet we muſt part, thou to thy duſt and there,</l>
+                     <pb n="33" facs="tcp:51691:19"/>
+                     <l> Reſt for a while, and I to heav'n, where I</l>
+                     <l>Shall ſhortly too expect thy company.</l>
+                     <l>When we ſhall re-united be again,</l>
+                     <l>With Chriſt our head, for evermore to raign.</l>
+                     <l>
+                        <hi>Farewell</hi> my <hi>Hopes,</hi> you bleſſed ſpies that have</l>
+                     <l>ſtill chear'd us amidſt our weary ſteps,</l>
+                     <l>with ſweet relations of that promis'd Land,</l>
+                     <l>that we are now agoing to poſſeſs.</l>
+                     <l>No more we need your help, but leave you for</l>
+                     <l>a guide to thoſe that follow us: and <hi>Faith.</hi>
+                     </l>
+                     <l>Triumphant <hi>Faith,</hi> thou glorious inſtrument</l>
+                     <l>of this ſo great acquired Victory,</l>
+                     <l>The ſubſtance of our hopes, and evidence</l>
+                     <l>of things before not ſeen, but now to be</l>
+                     <l>diſcover'd in full Viſion, Farewell.</l>
+                     <l>But <hi>Charity,</hi> greater than all the reſt,</l>
+                     <l>thou muſt go with us, and receive the Crown.</l>
+                     <l>Thou art alone that grace, which ſhalt receive</l>
+                     <l>perfection in that place of happineſs,</l>
+                     <l>where thou united to the breaſt of him,</l>
+                     <l>that is the fountain of all <hi>Charity,</hi>
+                     </l>
+                     <l>ſhalt thence flow back again in joyes to me.</l>
+                  </sp>
+                  <epigraph>
+                     <q>I have fought a good fight, I have finiſhed my Courſe, I have kept the Faith, henceforth there is laid up for me, a Crown of Righteouſneſs. <hi>&amp;c.</hi>
+                     </q>
+                     <bibl>2. <hi>Tim.</hi> 4, 7, 8.</bibl>
+                  </epigraph>
+               </div>
+            </div>
+            <epigraph>
+               <q>Cujus Ovantis Animae faelicis ſtatus nullus.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
